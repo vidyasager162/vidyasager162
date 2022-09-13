@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidyasager162
-- 👀 I’m interested in coding/developing stuff.
-- 🌱 I’m currently learning java and stuff.
+- 👀 I’m interested in coding/developing stuff. Now I am more interested in Web Development and Design.
+- 🌱 I’m currently learning Front-End Dev with Python and DBMS.
 - 💞️ I’m looking to collaborate on a bunch of fun projects
 - 📫 How to reach me - DM me bro 
 
