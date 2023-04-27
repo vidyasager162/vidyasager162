@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me:
 I wanna code but I am bad at it
-- 📚 I am a Undergrad Computer Science Student
+- 📚 I am an Undergrad Computer Science Student
 - 🌱 Currently struggling with Coding
 - ⚡ I am good with Computers (I think) and I am into reading books
 - 🚴 I am also an amateur cyclist
