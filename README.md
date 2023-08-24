@@ -14,7 +14,7 @@
 ### 👨‍💻 About me:
 I wanna code but I am bad at it
 - 📚 I am an Undergrad Computer Science Student
-- 🌱 Currently struggling with Coding
+- 🌱 Currently pursuing Masters in Data Science and Computing
 - ⚡ I am good with Computers (I think) and I am into reading books
 - 🚴 I am also an amateur cyclist
 - 💻 I watch anime (Ore wa Otaku desu)
