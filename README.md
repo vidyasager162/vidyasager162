@@ -1,7 +1,5 @@
 <h1 align="center">
   Hello there!! :wave:
-  
-  [![](https://visitcount.itsvg.in/api?id=vidyasager162&icon=0&color=0)](https://visitcount.itsvg.in)
 </h1>
 
 
