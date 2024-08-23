@@ -1,12 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="200"/>
-</div>
-
 <h1 align="center">
-  Hello there!! Yes, I am weird. :wave:
+  Hello there!! :wave:
   
   [![](https://visitcount.itsvg.in/api?id=vidyasager162&icon=0&color=0)](https://visitcount.itsvg.in)
-  
 </h1>
 
 
