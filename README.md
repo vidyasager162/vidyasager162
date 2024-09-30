@@ -5,7 +5,7 @@
 
 
 ### 👨‍💻 About me:
-I wanna code but I am bad at it
+I like tech!
 - 📚 I am an Undergrad Computer Science Student
 - 🌱 Currently pursuing Masters in Data Science and Computing
 - ⚡ I am good with Computers (I think) and I am into reading books
